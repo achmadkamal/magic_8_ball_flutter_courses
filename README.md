@@ -1,6 +1,6 @@
 # magic_8_ball_flutter_courses
 
-My journey flutter study at London App Brewery
+My journey Flutter & Dart study at [London App Brewery](https://www.appbrewery.co/)
 
 ## About Module
 
