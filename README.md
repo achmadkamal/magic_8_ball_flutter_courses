@@ -4,5 +4,5 @@ My journey flutter study at London App Brewery
 
 ## About Module
 
-I'm going to learn a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button.
+In this module I'm going to learn a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button.
 
